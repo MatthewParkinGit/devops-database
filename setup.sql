@@ -18,6 +18,14 @@ INSERT INTO Books (
 INSERT INTO Books (
         Name, Author, Image
 ) VALUES (
+        "Harry Potsmoker",
+        "JK Rowling",
+        "https://books.google.com/books/content/images/frontcover/39iYWTb6n6cC?fife=w200-h300"
+);
+
+INSERT INTO Books (
+        Name, Author, Image
+) VALUES (
         "The Beautiful Poetry of Donald Trump",
         "Robert Sears",
         "https://books.google.com/books/content/images/frontcover/68CnDwAAQBAJ?fife=w200-h300"
